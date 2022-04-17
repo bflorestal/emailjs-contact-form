@@ -9,7 +9,7 @@ export default function Home() {
         <title>Formulaire de contact</title>
         <meta
           name="description"
-          content="Un formulaire de contact réalisé avec EmailJS, Next.js et Tailwind."
+          content="Un formulaire de contact réalisé avec EmailJS, Next.js et Tailwind. Notifications avec react-toastify."
         />
         <meta
           name="keywords"
